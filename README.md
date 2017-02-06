@@ -1,6 +1,6 @@
 # [js.uy](http://js.uy)
 
-Links to the different JS communities in Uruguay. 
+Links to the different JS communities in Uruguay.
 
 ## How I list my community here?
 
