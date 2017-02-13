@@ -8,7 +8,7 @@ Submit a PR, once it's approved you should see your community listed on the site
 
 ## I run a Uruguayan JS community, can I have a js.uy domain?
 
-Sure, the idea is to give the whole Uruguayan JS community a stronger image not to own anything so please [✉️](mailto:hola@hs.uy) and I can add your CNAME to the Antel DNS.
+Sure, the idea is to give the whole Uruguayan JS community a stronger image not to own anything so please [✉️](mailto:hola@hs.uy) and I can add your A record to the Antel DNS.
 
 ## Future plans
 
