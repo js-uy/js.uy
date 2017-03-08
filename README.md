@@ -14,3 +14,7 @@ Sure, the idea is to give the whole Uruguayan JS community a stronger image not 
 
 - [ ] Onboard all JS communities
 - [ ] Serve as a distribution hub (twitter, mailing list, etc)
+
+## How to build this site
+
+We use [hugo](http://gohugo.io/) a static site generator built with go, I'll need to [install it](http://gohugo.io/overview/installing/) before, after that just run `hugo` on the root folder of this repo.

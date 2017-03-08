@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "*.js.uy"
+baseURL = "http://example.org/"
+theme = "jsuy"
+publishDir = "docs"
