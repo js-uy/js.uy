@@ -15,7 +15,7 @@ We think that getting noticed and spreading the word of what we do would have a 
 To summarize, our goals are:
 
 * Help people to better market themselves
-* Get noticed at an international level
+* Boost collaboration among the Uruguay-based developers
 * Put Uruguay in the map for the global JS community
 
 ### Why is this site in English?
