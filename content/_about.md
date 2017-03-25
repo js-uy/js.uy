@@ -6,7 +6,7 @@ url = "about"
 
 ## About
 
-Uruguay has great talent doing some awesome work but we fail miserably sharing that "awesomeness" with the rest of the world, most of the developers fail to communicate their achievements, while others don't really care.
+Uruguay has great talent doing some excellent work, but we fail miserably sharing that “awesomeness” with the rest of the world, most of the developers fail to communicate their achievements, while others don’t really care.
 
 We built `*.js.uy` as a way to list and promote all the great things we are doing as a JS community in Uruguay.
 
@@ -20,6 +20,6 @@ To summarize, our goals are:
 
 ### Why is this site in English?
 
-Good question! We are trying to reach a global audience, and we think it will be really hard to do so if we don't use English as the main language for this page.
+Good question! We are trying to reach a global audience, and we think it will be hard to do so if we don’t use English as the primary language for this page.
 
-Part of our goal is to better communicate what we do, having a site that's fully in English is a work in that direction. Nevertheless, we are working on a Spanish version.
+Part of our goal is to communicate better what we do, having a site that’s fully in English is a work in that direction. Nevertheless, we are working on a Spanish version.
