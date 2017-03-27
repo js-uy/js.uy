@@ -11,3 +11,4 @@ Links to the different JS communities in Uruguay.
 *   [Montevideo Ember Meetup](http://ember.js.uy) - A community to learn and share ember.js experiences
 *   [Angular MVD](https://www.meetup.com/Angular-MVD/) - A community to learn and share Angular experiences
 *   [freeCodeCamp Montevideo](https://www.fccmontevideo.com) -  A community to learn programming mainly in JavaScript
+*   [The Montevideo Javascript Meetup Group](http://mvd.js.uy/) -  A community to talk about JavaScript in general.
