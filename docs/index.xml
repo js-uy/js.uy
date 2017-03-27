@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on *.js.uy</title>
-    <link>http://example.org/index.xml</link>
-    <description>Recent content in Home on *.js.uy</description>
+    <title>Home on ☀️.js.uy</title>
+    <link>http://js.uy/index.xml</link>
+    <description>Recent content in Home on ☀️.js.uy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2017 18:15:51 -0300</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://js.uy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://example.org/about</link>
+      <link>http://js.uy/about</link>
       <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
       
-      <guid>http://example.org/about</guid>
+      <guid>http://js.uy/about</guid>
       <description>
 
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 
-&lt;p&gt;Uruguay has great talent doing some awesome work but we fail miserably sharing that &amp;ldquo;awesomeness&amp;rdquo; with the rest of the world, most of the developers fail to communicate their achievements, while others don&amp;rsquo;t really care.&lt;/p&gt;
+&lt;p&gt;Uruguay has great talent doing some excellent work, but we fail miserably sharing that “awesomeness” with the rest of the world, most of the developers fail to communicate their achievements, while others don’t really care.&lt;/p&gt;
 
 &lt;p&gt;We built &lt;code&gt;*.js.uy&lt;/code&gt; as a way to list and promote all the great things we are doing as a JS community in Uruguay.&lt;/p&gt;
 
@@ -35,32 +35,32 @@
 
 &lt;h3 id=&#34;why-is-this-site-in-english&#34;&gt;Why is this site in English?&lt;/h3&gt;
 
-&lt;p&gt;Good question! We are trying to reach a global audience, and we think it will be really hard to do so if we don&amp;rsquo;t use English as the main language for this page.&lt;/p&gt;
+&lt;p&gt;Good question! We are trying to reach a global audience, and we think it will be hard to do so if we don’t use English as the primary language for this page.&lt;/p&gt;
 
-&lt;p&gt;Part of our goal is to better communicate what we do, having a site that&amp;rsquo;s fully in English is a work in that direction. Nevertheless, we are working on a Spanish version.&lt;/p&gt;
+&lt;p&gt;Part of our goal is to communicate better what we do, having a site that’s fully in English is a work in that direction. Nevertheless, we are working on a Spanish version.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>How do I list my community here?</title>
-      <link>http://example.org/claim-domain</link>
+      <title>How do I claim a js.uy domain?</title>
+      <link>http://js.uy/claim-domain</link>
       <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
       
-      <guid>http://example.org/claim-domain</guid>
+      <guid>http://js.uy/claim-domain</guid>
       <description>
 
 &lt;h2 id=&#34;how-do-i-claim-a-js-uy-domain&#34;&gt;How do I claim a js.uy domain?&lt;/h2&gt;
 
-&lt;p&gt;Sure, the idea is to give the whole Uruguayan JS community a stronger image not to own anything so please &lt;a href=&#34;mailto:hola@js.uy&#34;&gt;✉️&lt;/a&gt; and I can add your CNAME to the Antel DNS.&lt;/p&gt;
+&lt;p&gt;Please &lt;a href=&#34;https://github.com/cherta/js.uy/issues/new&#34;&gt;open an issue&lt;/a&gt; with the &lt;code&gt;domain&lt;/code&gt; label so we can add your domain to the Antel DNS registry.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How do I list my community here?</title>
-      <link>http://example.org/list-my-community</link>
+      <link>http://js.uy/list-my-community</link>
       <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
       
-      <guid>http://example.org/list-my-community</guid>
+      <guid>http://js.uy/list-my-community</guid>
       <description>
 
 &lt;h2 id=&#34;how-do-i-list-my-community-in-the-site&#34;&gt;How do I list my community in the site?&lt;/h2&gt;
