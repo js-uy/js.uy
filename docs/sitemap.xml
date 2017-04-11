@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://js.uy/about</loc>
+    <loc>http://js.uy/about/</loc>
     <lastmod>2017-03-07T18:15:51-03:00</lastmod>
   </url>
   
@@ -12,13 +12,23 @@
   </url>
   
   <url>
-    <loc>http://js.uy/claim-domain</loc>
+    <loc>http://js.uy/claim-domain/</loc>
     <lastmod>2017-03-07T18:15:51-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://js.uy/list-my-community</loc>
+    <loc>http://js.uy/list-my-community/</loc>
     <lastmod>2017-03-07T18:15:51-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://js.uy/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://js.uy/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
