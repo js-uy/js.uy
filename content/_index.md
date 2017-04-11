@@ -64,6 +64,12 @@ title = "Home"
       <p>Montevideo Javascript Meetup Group</p>
     </a>
   </li>
+  <li>
+    <a href="https://www.meetup.com/Front-end-MVD">
+      <img src="https://secure.meetupstatic.com/photos/event/c/0/0/4/600_435589156.jpeg" alt="Front End MVD Meetup" />
+      <p>@FrontEndMVD</p>
+    </a>
+  </li>
 </ul>
 
 ## Newsletter 🆕
