@@ -2,71 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ☀️.js.uy</title>
-    <link>http://js.uy/index.xml</link>
+    <link>http://js.uy/</link>
     <description>Recent content in Home on ☀️.js.uy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2017 18:15:51 -0300</lastBuildDate>
-    <atom:link href="http://js.uy/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://js.uy/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
-      <link>http://js.uy/about</link>
+      <link>http://js.uy/about/</link>
       <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
       
-      <guid>http://js.uy/about</guid>
-      <description>
-
-&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
-
-&lt;p&gt;Uruguay has great talent doing some excellent work, but we fail miserably sharing that “awesomeness” with the rest of the world, most of the developers fail to communicate their achievements, while others don’t really care.&lt;/p&gt;
-
-&lt;p&gt;We built &lt;code&gt;*.js.uy&lt;/code&gt; as a way to list and promote all the great things we are doing as a JS community in Uruguay.&lt;/p&gt;
-
-&lt;p&gt;We think that getting noticed and spreading the word of what we do would have a positive impact on the developers life by enabling them to reach better clients, raise salaries and allow them to work on projects they care about.&lt;/p&gt;
-
-&lt;p&gt;To summarize, our goals are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Help people to better market themselves&lt;/li&gt;
-&lt;li&gt;Boost collaboration among the Uruguay-based developers&lt;/li&gt;
-&lt;li&gt;Put Uruguay on the map for the global JS community&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;why-is-this-site-in-english&#34;&gt;Why is this site in English?&lt;/h3&gt;
-
-&lt;p&gt;Good question! We are trying to reach a global audience, and we think it will be hard to do so if we don’t use English as the primary language for this page.&lt;/p&gt;
-
-&lt;p&gt;Part of our goal is to communicate better what we do, having a site that’s fully in English is a work in that direction. Nevertheless, we are working on a Spanish version.&lt;/p&gt;
-</description>
+      <guid>http://js.uy/about/</guid>
+      <description>About Uruguay has great talent doing some excellent work, but we fail miserably sharing that “awesomeness” with the rest of the world, most of the developers fail to communicate their achievements, while others don’t really care.
+We built *.js.uy as a way to list and promote all the great things we are doing as a JS community in Uruguay.
+We think that getting noticed and spreading the word of what we do would have a positive impact on the developers life by enabling them to reach better clients, raise salaries and allow them to work on projects they care about.</description>
     </item>
     
     <item>
       <title>How do I claim a js.uy domain?</title>
-      <link>http://js.uy/claim-domain</link>
+      <link>http://js.uy/claim-domain/</link>
       <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
       
-      <guid>http://js.uy/claim-domain</guid>
-      <description>
-
-&lt;h2 id=&#34;how-do-i-claim-a-js-uy-domain&#34;&gt;How do I claim a js.uy domain?&lt;/h2&gt;
-
-&lt;p&gt;Please &lt;a href=&#34;https://github.com/cherta/js.uy/issues/new&#34;&gt;open an issue&lt;/a&gt; with the &lt;code&gt;domain&lt;/code&gt; label so we can add your domain to the Antel DNS registry.&lt;/p&gt;
-</description>
+      <guid>http://js.uy/claim-domain/</guid>
+      <description>How do I claim a js.uy domain? Please open an issue with the domain label so we can add your domain to the Antel DNS registry.</description>
     </item>
     
     <item>
       <title>How do I list my community here?</title>
-      <link>http://js.uy/list-my-community</link>
+      <link>http://js.uy/list-my-community/</link>
       <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
       
-      <guid>http://js.uy/list-my-community</guid>
-      <description>
-
-&lt;h2 id=&#34;how-do-i-list-my-community-in-the-site&#34;&gt;How do I list my community in the site?&lt;/h2&gt;
-
-&lt;p&gt;Just submit a &lt;a href=&#34;https://github.com/cherta/js.uy&#34;&gt;PR to this page&lt;/a&gt;, once it&amp;rsquo;s approved you should see your community listed on the site.&lt;/p&gt;
-</description>
+      <guid>http://js.uy/list-my-community/</guid>
+      <description>How do I list my community in the site? Just submit a PR to this page, once it&amp;rsquo;s approved you should see your community listed on the site.</description>
     </item>
     
   </channel>
