@@ -1,51 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-	<meta name="generator" content="Hugo 0.19" />
-    <meta charSet="IE=edge" httpEquiv="X-UA-Compatible" />
-<meta charSet="utf-8" />
-<meta
-  content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"
-  name="viewport"
-/>
-<link
-  rel="stylesheet"
-  href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather"
-/>
-<link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css" />
-<title>Home | ☀️.js.uy</title>
-<style media="screen" type="text/css">
-  body { font-family: 'Inconsolata', monospace; }
-  h1, h2, h3, h4 { font-family: 'Merriweather', serif; }
-  h1 {
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  #main { max-width: calc(700px + 2em); margin: 0 auto; padding: 0 2em; }
-  #translations {
-    position: absolute;
-    top: 0px;
-    right: 10px;
-  }
-  .footer li { display: inline; }
-  .footer li::after { content: "|"; }
-  .footer li:last-child::after { content: ""; }
-</style>
-
-  </head>
-  <body>
-    <div id="main">
-      <h1><sup>☀️</sup>.js.uy</h1>
-      
-  <div id="translations">
-    
-      <p><a href="http://js.uy/es/"> Leer esta página en Español </a></p>
-    
-  </div>
-
-
-      
-
++++
+date = "2017-03-07T18:15:51-03:00"
+title = "Home"
++++
 <style>
   .intro {
     margin-top: 40px;
@@ -73,9 +29,9 @@
   h2 { text-align: center; }
 </style>
 
-<p><div class="intro">
-  Hello there 👋, we are a group of people interested in growing the JavaScript community in Uruguay, join us in the <a href="http://owu.herokuapp.com/">Open Web Uruguay slack community</a>.
-</p></p>
+<div class="intro">
+  Hola 👋 esto es js.uy, un grupo de personas interesadas en hacer crecer la comunidad JavaScript en Uruguay, podés encontrarnos en el slack de la [Open Web Uruguay](http://owu.herokuapp.com/).
+</p>
 
 <ul id="communities">
   <li>
@@ -116,11 +72,11 @@
   </li>
 </ul>
 
-<h2 id="newsletter">Newsletter 🆕</h2>
+## Newsletter 🆕
 
-<p>Join our newsletter to get a summary of all the JS activity the various meetup groups have. We send a monthly digest with all the talks, links to the slides, videos, exclusive articles and the next month agenda.</p>
+Apuntándote en nuestro Newsletter mensual recibís en tu email toda la actividad de los distintos grupos que hacen parte de la comunidad JS en Uruguay. Una vez por mes enviamos todas las noticias con links a cada charla, videos y slides, además toda la agenda de actividades para el mes que viene.
 
-
+<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup { background:#fff; clear:left; }
@@ -158,63 +114,11 @@
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1e1ef1f20a96aa3c6d3e37788_b522b89f4c" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
-
-
-      <ul class="footer">
-        
-          <li>
-            <a href="/">Home</a>
-          </li>
-        
-          <li>
-            <a href="https://js-uy-calendar.now.sh/">Calendar</a>
-          </li>
-        
-          <li>
-            <a href="/about">About</a>
-          </li>
-        
-          <li>
-            <a href="/list-my-community">How do I list my community?</a>
-          </li>
-        
-          <li>
-            <a href="/claim-domain">How do I claim a js.uy domain?</a>
-          </li>
-        
-      </ul>
-    </div>
-    <script>
-(function(i, s, o, g, r, a, m) {
-  i['GoogleAnalyticsObject'] = r;
-  (i[r] = i[r] ||
-    function() {
-      (i[r].q = i[r].q || []).push(arguments);
-    }), (i[r].l = 1 * new Date());
-  (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-  a.async = 1;
-  a.src = g;
-  m.parentNode.insertBefore(a, m);
-})(
-  window,
-  document,
-  'script',
-  'https://www.google-analytics.com/analytics.js',
-  'ga'
-);
-
-ga('create', 'UA-55094322-2', 'auto');
-ga('send', 'pageview');
-</script>
-
-  </body>
-</html>
-
+<!--End mc_embed_signup-->

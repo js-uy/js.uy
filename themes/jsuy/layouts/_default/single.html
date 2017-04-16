@@ -6,17 +6,14 @@
   <body>
     <div id="main">
       <h1><sup>☀️</sup>.js.uy</h1>
+      {{ partial "translations.html" . }}
       {{ .Content }}
       <ul class="footer">
-        <li><a href="/">Home</a></li>
-        <li>|</li>
-          <li><a href="https://js-uy-calendar.now.sh/">Calendar</a></li>
-        <li>|</li>
-        <li><a href="/about">About</a></li>
-        <li>|</li>
-        <li><a href="/list-my-community">How do I list my community?</a></li>
-        <li>|</li>
-        <li><a href="/claim-domain">How do I claim a js.uy domain?</a></li>
+        {{ range .Site.Menus.main }}
+          <li>
+            <a href="{{.URL}}">{{ .Name }}</a>
+          </li>
+        {{ end }}
       </ul>
     </div>
     {{ partial "footer.html" . }}

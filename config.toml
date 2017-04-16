@@ -1,5 +1,62 @@
 languageCode = "en-us"
+defaultContentLanguage="en"
 title = "☀️.js.uy"
 baseURL = "http://js.uy/"
 theme = "jsuy"
 publishDir = "docs"
+
+[languages.en]
+weight = 1
+[[languages.en.menu.main]]
+   name = "Home"
+   weight = 1
+   identifier = "home"
+   url = "/"
+[[languages.en.menu.main]]
+  name = "Calendar"
+  weight = 2
+  identifier = "calendar"
+  url = "https://js-uy-calendar.now.sh/"
+[[languages.en.menu.main]]
+  name = "About"
+  weight = 3
+  identifier = "about"
+  url = "/about"
+[[languages.en.menu.main]]
+  name = "How do I list my community?"
+  weight = 4
+  identifier = "list-my-community"
+  url = "/list-my-community"
+[[languages.en.menu.main]]
+  name = "How do I claim a js.uy domain?"
+  weight = 5
+  identifier = "claim-domain"
+  url = "/claim-domain"
+
+[languages.es]
+weight = 2
+[[languages.es.menu.main]]
+   name = "Inicio"
+   weight = 1
+   identifier = "home"
+   url = "/es"
+[[languages.es.menu.main]]
+  name = "Calendario"
+  weight = 2
+  identifier = "calendar"
+  url = "https://js-uy-calendar.now.sh/"
+[[languages.es.menu.main]]
+  name = "Sobre nosotros"
+  weight = 3
+  identifier = "about"
+  url = "/sobre-nosotros"
+[[languages.es.menu.main]]
+  name = "Cómo listo mi comunidad?"
+  weight = 4
+  identifier = "list-my-community"
+  url = "/listar-comunidad"
+[[languages.es.menu.main]]
+  name = "Cómo reclamo un dominio js.uy?"
+  weight = 5
+  identifier = "claim-domain"
+  url = "/reclamar-dominio"
