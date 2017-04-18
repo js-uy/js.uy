@@ -46,17 +46,17 @@ weight = 2
   identifier = "calendar"
   url = "https://js-uy-calendar.now.sh/"
 [[languages.es.menu.main]]
-  name = "Sobre nosotros"
+  name = "Acerca de js.uy"
   weight = 3
   identifier = "about"
-  url = "/sobre-nosotros"
+  url = "/acerca-de"
 [[languages.es.menu.main]]
-  name = "Cómo listo mi comunidad?"
+  name = "¿Cómo listo mi comunidad?"
   weight = 4
   identifier = "list-my-community"
   url = "/listar-comunidad"
 [[languages.es.menu.main]]
-  name = "Cómo reclamo un dominio js.uy?"
+  name = "¿Cómo solicito un dominio js.uy?"
   weight = 5
   identifier = "claim-domain"
-  url = "/reclamar-dominio"
+  url = "/solicitar-dominio"

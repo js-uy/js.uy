@@ -74,7 +74,7 @@ title = "Home"
 
 ## Newsletter 🆕
 
-Apuntándote en nuestro Newsletter mensual recibís en tu email toda la actividad de los distintos grupos que hacen parte de la comunidad JS en Uruguay. Una vez por mes enviamos todas las noticias con links a cada charla, videos y slides, además toda la agenda de actividades para el mes que viene.
+Subscribiéndote en nuestro Newsletter mensual recibís en tu email toda la actividad de los distintos grupos que hacen parte de la comunidad JS local. Una vez por mes enviamos todas las noticias con links a cada charla, videos y slides, además toda la agenda de actividades para el mes que viene.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

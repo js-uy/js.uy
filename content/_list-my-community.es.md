@@ -4,6 +4,6 @@ title = "Cómo listo mi comunidad?"
 url = "listar-comunidad"
 +++
 
-## Cómo listo mi comunidad?
+## ¿Cómo listo mi comunidad?
 
 Para listar una comunidad hay que [mandar un PR](https://github.com/cherta/js.uy) con el cambio, una vez aprobado debería aparecer en el sitio automáticamente.

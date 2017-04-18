@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://js.uy/acerca-de</loc>
+    <lastmod>2017-03-07T18:15:51-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://js.uy/listar-comunidad</loc>
     <lastmod>2017-03-07T18:15:51-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://js.uy/reclamar-dominio</loc>
+    <loc>http://js.uy/solicitar-dominio</loc>
     <lastmod>2017-03-07T18:15:51-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://js.uy/es/</loc>
-    <lastmod>2017-03-07T18:15:51-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://js.uy/sobre-nosotros</loc>
     <lastmod>2017-03-07T18:15:51-03:00</lastmod>
   </url>
   
