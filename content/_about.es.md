@@ -10,7 +10,7 @@ En Uruguay existen muchas personas trabajando con JS al primer nivel, pero a vec
 
 Creamos `☀️.js.uy` para promover las actividades de la comunidad JS local y potenciar a sus integrantes en pos de hacer crecer la misma.
 
-Creemos que difundiendo mejor nuestras actividades vamos a tener un impacto positivo en las carreras de las personas. Ayudándolos a tener más visibilidad en la comunidad y que esto les permita trabajar en mejores proyectos.
+Creemos que difundiendo mejor nuestras actividades vamos a tener un impacto positivo en las carreras de las personas, ayudándolas a tener mayor visibilidad en la comunidad favoreciendo su acceso a proyectos más interesantes.
 
 Nuestros objetivos son:
 

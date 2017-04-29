@@ -74,6 +74,6 @@ title = "Home"
 
 ## Newsletter 🆕
 
-Subscribiéndote en nuestro Newsletter mensual recibís en tu email toda la actividad de los distintos grupos que hacen parte de la comunidad JS local. Una vez por mes enviamos todas las noticias con links a cada charla, videos y slides, además toda la agenda de actividades para el mes que viene.
+Subscribiéndote en nuestro Newsletter mensual recibís en tu email toda la actividad de los distintos grupos que hacen parte de la comunidad JS local. Una vez por mes enviamos todas las noticias con links a cada charla (videos y slides), además toda la agenda de actividades para el mes siguiente.
 
 {{% mailchimp_signup_form %}}
