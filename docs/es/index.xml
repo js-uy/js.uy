@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ☀️.js.uy</title>
+    <link>http://js.uy/es/index.xml</link>
+    <description>Recent content in Home on ☀️.js.uy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2017 18:15:51 -0300</lastBuildDate>
+    <atom:link href="http://js.uy/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acerca de</title>
+      <link>http://js.uy/acerca-de</link>
+      <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
+      
+      <guid>http://js.uy/acerca-de</guid>
+      <description>
+
+&lt;h2 id=&#34;acerca-de-js-uy&#34;&gt;Acerca de js.uy&lt;/h2&gt;
+
+&lt;p&gt;En Uruguay existen muchas personas trabajando con JS al primer nivel, pero a veces fallamos en comunicarle al resto del mundo lo que estamos haciendo. La mayoría desaprovechamos la oportunidad de contar nuestros logros mientras algunos otros ni siquiera sabemos que hacerlo es beneficioso para el desarrollo de nuestra carrera.&lt;/p&gt;
+
+&lt;p&gt;Creamos &lt;code&gt;☀️.js.uy&lt;/code&gt; para promover las actividades de la comunidad JS local y potenciar a sus integrantes en pos de hacer crecer la misma.&lt;/p&gt;
+
+&lt;p&gt;Creemos que difundiendo mejor nuestras actividades vamos a tener un impacto positivo en las carreras de las personas, ayudándolas a tener mayor visibilidad en la comunidad favoreciendo su acceso a proyectos más interesantes.&lt;/p&gt;
+
+&lt;p&gt;Nuestros objetivos son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ayudar a los miembros a darse a conocer&lt;/li&gt;
+&lt;li&gt;Mejorar la colaboración dentro de la comunidad local de desarrolladores&lt;/li&gt;
+&lt;li&gt;Poner a Uruguay en el mapa de la comunidad JS global&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cómo listo mi comunidad?</title>
+      <link>http://js.uy/listar-comunidad</link>
+      <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
+      
+      <guid>http://js.uy/listar-comunidad</guid>
+      <description>
+
+&lt;h2 id=&#34;cómo-listo-mi-comunidad&#34;&gt;¿Cómo listo mi comunidad?&lt;/h2&gt;
+
+&lt;p&gt;Para listar una comunidad hay que &lt;a href=&#34;https://github.com/cherta/js.uy&#34;&gt;mandar un PR&lt;/a&gt; con el cambio, una vez aprobado debería aparecer en el sitio automáticamente.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cómo reclamo un dominio js.uy?</title>
+      <link>http://js.uy/solicitar-dominio</link>
+      <pubDate>Tue, 07 Mar 2017 18:15:51 -0300</pubDate>
+      
+      <guid>http://js.uy/solicitar-dominio</guid>
+      <description>
+
+&lt;h2 id=&#34;cómo-solicito-un-dominio-js-uy&#34;&gt;¿Cómo solicito un dominio js.uy?&lt;/h2&gt;
+
+&lt;p&gt;Para obtener un dominio hay que &lt;a href=&#34;https://github.com/cherta/js.uy/issues/new&#34;&gt;abrir un issue&lt;/a&gt; con la etiqueta &lt;code&gt;domain&lt;/code&gt; y en un par de días configuramos los DNS de Antel para que apunten a la IP que nos mandes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

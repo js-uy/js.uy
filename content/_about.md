@@ -17,9 +17,3 @@ To summarize, our goals are:
 * Help people to better market themselves
 * Boost collaboration among the Uruguay-based developers
 * Put Uruguay on the map for the global JS community
-
-### Why is this site in English?
-
-Good question! We are trying to reach a global audience, and we think it will be hard to do so if we don’t use English as the primary language for this page.
-
-Part of our goal is to communicate better what we do, having a site that’s fully in English is a work in that direction. Nevertheless, we are working on a Spanish version.

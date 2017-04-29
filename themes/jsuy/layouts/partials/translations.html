@@ -1,0 +1,7 @@
+{{ if .IsTranslated }}
+  <div id="translations">
+    {{ range .Translations }}
+      <p><a href="{{ .Permalink }}">{{ if (eq .Lang "es") }} Leer esta página en Español {{ else }} Read this page in English {{ end }}</a></p>
+    {{ end}}
+  </div>
+{{ end }}

@@ -21,7 +21,14 @@
     margin-bottom: 40px;
   }
   #main { max-width: calc(700px + 2em); margin: 0 auto; padding: 0 2em; }
+  #translations {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+  }
   .footer li { display: inline; }
+  .footer li::after { content: "|"; }
+  .footer li:last-child::after { content: ""; }
 </style>
 
   </head>
